@@ -31,12 +31,13 @@ Unless otherwise specified on the calendar, homework is due the next morning by
 
 There are a series of prompts inside [`lib/challenge.js`](lib/challenge.js).
 Work through all of the prompts. Each prompt is in the form of a JavaScript
-comment. Write your code to solve the prompt after the comment.
+comment. Write your code to solve the prompt after the comment. Commit your code
+after you solve a prompt.
 
 Some prompts will require you to practice researching methods we did not learn
-in class.
+in class. This is intended to help you learn to become a more independent developer.
 
-**You are required to make a commit after each prompt.**
+### Reminder: You are required to make a commit after each prompt.
 
 ## [License](LICENSE)
 
